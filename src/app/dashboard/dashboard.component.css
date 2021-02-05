@@ -1,0 +1,31 @@
+
+  .font-type{
+    font-family:Roboto,HelveticaNeue-Light,sans-serif;
+    font-size: medium;
+    
+}
+
+.card{
+    margin: auto;
+    float: none;
+}
+
+.col-sm{
+    padding-left: 70px;
+    font-family:Roboto,HelveticaNeue-Light,sans-serif;
+    font-size: medium;
+}
+
+.vertical-align{
+    display: flex;
+    align-items: center;
+}
+.card-body{
+    text-align: center;
+    
+
+}
+.card-header{
+    text-align: center;
+    background-color: #DDD5D3;
+}
